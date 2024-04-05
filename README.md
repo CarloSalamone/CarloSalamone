@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A passionate software engenieer student from Italy</h3>
+<h3 align="center">A informatic engenieer student from Italy</h3>
 
 - 🌱 I’m currently learning React 
 - 🧱 I program mods for minecraft as a hobby 
