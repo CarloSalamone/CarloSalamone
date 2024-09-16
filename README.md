@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 <h3 align="center">A informatic engenieer student from Italy</h3>
 
-- 🌱 I’m currently learning React 
-- 🧱 I program mods for minecraft as a hobby 
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
